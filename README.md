@@ -1,2 +1,2 @@
-# adamgayuh29-apriori-mining
-mining
+# apriori_toko
+data mining asosiasi algoritma apriori produk toko
